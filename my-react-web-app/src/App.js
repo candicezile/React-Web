@@ -17,7 +17,7 @@ function Web() {
   return (
     <div className="App">
       <div className="App-header">
-        <h1>Khiku Projects Pty Ltd</h1>
+        <h1> Khiku Projects Pty Ltd </h1>
         <p>The company that provides good service to the customers.</p>
         <div>
           <h2>Services Offered:</h2>
